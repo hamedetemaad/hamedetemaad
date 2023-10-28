@@ -6,6 +6,19 @@
   </ul>
 </div>
 
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,docker,kubernetes,go,nodejs,linux,mongodb,mysql,postman,py,perl,postgresql,grafana,prometheus,kafka,ansible,gitlab,redis,selenium&perline=10" />
+  </a>
+</p>
+
 <!--
 **hamedetemaad/hamedetemaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
