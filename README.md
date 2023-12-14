@@ -11,7 +11,7 @@
   </ul>
 </div>
 <p align="center">
-Senior DevOps/SRE Engineer with 6+ years of experience in designing, implementing, and optimizing end-to-end Infra solutions</br>
+Senior DevOps/SRE Engineer with 8+ years of experience in designing, implementing, and optimizing end-to-end Infra solutions</br>
 for complex, mission-critical applications
 </p>
 <!--h1 without bottom border-->
